@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ヴィーナスシンドローム",
+  "base_artist": "新田美波 (CV: 洲崎 綾)",
+  "createdAt": "2026-03-01T03:24:37.477514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波(CV:洲崎綾)",
+      "has_synced": true,
+      "path": "select/01_ヴィーナスシンドローム_新田美波(CV_洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波 (CV: 洲崎綾)",
+      "has_synced": true,
+      "path": "select/02_ヴィーナスシンドローム_新田美波_(CV__洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム [ORT]",
+      "artist": "新田美波(CV:洲崎綾)",
+      "has_synced": true,
+      "path": "select/03_ヴィーナスシンドローム_[ORT]_新田美波(CV_洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム (オリジナル・カラオケ)",
+      "artist": "新田美波 (CV洲崎綾)",
+      "has_synced": false,
+      "path": "select/04_ヴィーナスシンドローム_(オリジナル・カラオケ)_新田美波_(CV洲崎綾).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波 (CV洲崎綾)",
+      "has_synced": true,
+      "path": "select/05_ヴィーナスシンドローム_新田美波_(CV洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波(CV.洲崎綾)",
+      "has_synced": true,
+      "path": "select/06_ヴィーナスシンドローム_新田美波(CV.洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "洲崎綾",
+      "has_synced": true,
+      "path": "select/07_ヴィーナスシンドローム_洲崎綾.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波",
+      "has_synced": true,
+      "path": "select/08_ヴィーナスシンドローム_新田美波.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム (オリジナル・カラオケ)",
+      "artist": "新田美波(CV.洲崎綾)",
+      "has_synced": false,
+      "path": "select/09_ヴィーナスシンドローム_(オリジナル・カラオケ)_新田美波(CV.洲崎綾).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波 (CV: 洲崎 綾)",
+      "has_synced": true,
+      "path": "select/10_ヴィーナスシンドローム_新田美波_(CV__洲崎_綾).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヴィーナスシンドローム (オリジナル・カラオケ)",
+      "artist": "新田美波",
+      "has_synced": false,
+      "path": "select/11_ヴィーナスシンドローム_(オリジナル・カラオケ)_新田美波.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヴィーナスシンドローム",
+      "artist": "新田美波(CV:洲崎綾)",
+      "has_synced": false,
+      "path": "select/pl_01_ヴィーナスシンドローム_新田美波(CV_洲崎綾).txt"
+    }
+  ]
+}
